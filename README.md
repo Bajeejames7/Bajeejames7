@@ -1,120 +1,138 @@
-# 👋 Hey, I'm @Bajeejames7
+# Bajeejames7
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?style=flat-square)
 
-Computer Science student at Kirinyaga University, building real skills through coursework, personal projects, and a lot of hands-on practice — and increasingly pointing that energy toward AI.
+**Full-Stack Developer & Computer Science Student — Building AI-Integrated Production Systems**
 
-> 🌍 **What I'm looking for:** an organization, lab, or team using technology — especially AI — to help people and society. Open to internships, research roles, collaborations, or a good open-source project with real purpose behind it.
+Full-stack developer with hands-on experience shipping production systems — including a government file-management platform and an AI-integrated pharmacy management system — alongside formal study in Computer Science and a growing specialization in applied AI.
 
----
-
-## 🧠 A Bit About Me
-
-- 👀 **Interests:** AI & Machine Learning, full-stack development, cybersecurity, systems programming, and automation
-- 🌱 **Currently learning:** Machine learning fundamentals (Python), advanced JavaScript & Node.js, backend frameworks, and DSA (Data Structures & Algorithms)
-- 🎯 **Actively seeking:** organizations building AI or tech for social good, human impact, or public benefit — internships, research assistant roles, collaborations, or open-source contributions all welcome
-- 💞️ **Looking to collaborate on:** AI-for-good projects, open-source tools, automation scripts, and web-based solutions for real-world problems
-- 📫 **Reach me:** jamesbajee3579@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I debugged a program at 3AM and high-fived my laptop when it finally worked. We've been tight ever since.
+> **Objective:** Seeking an organization, research lab, or team applying technology — particularly AI — toward meaningful social impact. Open to internships, research assistant roles, and collaborative projects.
 
 ---
 
-## 💡 What I Know & Where I Shine
+## Selected Projects
 
-### 🤖 AI & Machine Learning *(current focus)*
-This is where I'm putting most of my energy right now. I'm building on my Python foundation to learn machine learning fundamentals, and I care more about AI that's genuinely useful than AI that's just impressive — automation, accessibility, and tools that make a real difference for people.
+**Esena Pharmacy — Full-Stack Pharmacy Management Platform**
+Production system built for [Esena Pharmacy](https://esena.co.ke), covering online ordering, appointment booking, and an admin dashboard, with an integrated AI chatbot — Ivo Bot, built on Google's Gemini API — for customer support. 150 commits.
+Stack: React, Tailwind CSS, Node.js, Express, MySQL, JWT authentication
+[Repository](https://github.com/Bajeejames7/esena_pharmacy)
 
-**Focus areas:**
-- Learning ML fundamentals with Python
-- Exploring practical, human-centered AI applications
-- Aiming to combine AI with my automation and full-stack skills to build real, usable tools
-- Approaching AI thoughtfully, with real people and real impact in mind
+**Government File Management System**
+Multi-version file management system developed for a government client, spanning several major revisions (mark2 through mark7) that reflect sustained ownership and iteration on a production system.
 
-### 🚀 Java
-This is where I'm strongest. I've used Java for object-oriented programming, GUIs with Java Swing, and academic projects. I'm comfortable with class structures, inheritance, encapsulation, file handling, and building full desktop applications.
+**ByteHub — Digital Studio (Team of Four)**
+One of the developers behind ByteHub, a small studio offering web design and development services. Built the studio's public site and contributes to client projects.
+Stack: React, Vite, Tailwind CSS, Framer Motion
+[Repository](https://github.com/Bytehub-IT/Bytehub_website)
+
+**Event Guest Scanner**
+Deployed guest check-in and verification tool, live in production. 28 commits.
+[Live Demo](https://event-guest-scanner.vercel.app) · [Repository](https://github.com/Bajeejames7/event_guest_scanner)
+
+**Additional Projects:** Kienyeji Farm & Website, LifeBridge Hospital Management System, Welfare Organization Website, Elektrik Web Platform, and a Windows auto-brightness utility — spanning healthcare, agriculture, community, and systems-level tools.
+
+---
+
+## Profile Summary
+
+- **Interests:** Artificial Intelligence & Machine Learning, full-stack development, cybersecurity, systems programming, and automation
+- **Currently Learning:** Machine learning fundamentals (Python), advanced backend architecture, and Data Structures & Algorithms (DSA)
+- **Actively Seeking:** Organizations developing AI or technology for social good, human impact, or public benefit
+- **Collaboration Interests:** AI-for-good initiatives, open-source tools, automation scripts, and web-based solutions for real-world problems
+- **Contact:** jamesbajee3579@gmail.com
+- **Pronouns:** He/Him
+
+---
+
+## Technical Skills
+
+### Full-Stack Development
+Builds complete, production-grade web applications end to end — from database design through deployment. Applied directly to real client and organizational systems, including a pharmacy management platform and a government file-management system.
+
+**Stack:**
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, MySQL
+- **Auth & APIs:** JWT authentication, REST APIs
+- **Deployment:** Vercel, GitHub Actions
+
+### Artificial Intelligence & Machine Learning
+Applying AI directly inside production systems — Ivo Bot, an AI-powered customer support chatbot built on Google's Gemini API, is integrated into the Esena Pharmacy platform — alongside ongoing study of machine learning fundamentals in Python.
+
+**Focus Areas:**
+- Applied AI: integrating LLM APIs (e.g., Gemini) into real, production products
+- Developing machine learning fundamentals using Python
+- Human-centered AI — automation and tools that create measurable value for people
+- Approaching AI development with attention to real-world impact and responsible use
+
+### Java
+Primary language of strength. Applied to object-oriented programming, GUI development with Java Swing, and academic projects. Proficient in class structures, inheritance, encapsulation, file handling, and full desktop application development.
 
 **Strengths:**
-- Building Java Swing apps
-- Understanding OOP concepts deeply
-- Writing clean, modular code
+- Java Swing application development
+- Strong understanding of OOP principles
+- Clean, modular code
 - Debugging and exception handling
 
-### ⚡ JavaScript
-I use JavaScript mainly for web development — both in browser scripting and on the server side with Node.js. I can create interactive web interfaces and dynamic functionality, and I'm currently diving deeper into asynchronous patterns (Promises, async/await).
+### Python
+Primary language for scripting, automation, and rapid prototyping, including file-renaming scripts, CLI tools, and basic data parsing.
 
 **Strengths:**
-- DOM manipulation
-- Event-driven programming
-- Basic Node.js
-- Front-end interactivity (vanilla JS & basic frameworks)
+- Clean, readable code
+- Modules and virtual environments
+- Automation of repetitive tasks
+- Data handling (lists, dictionaries, sets)
 
-### 🐍 Python
-Python is my go-to for scripts, automating tasks, and quick prototyping — file renaming scripts, CLI tools, basic data parsing. It's also become my entry point into AI and machine learning.
-
-**Strengths:**
-- Writing clean, readable code
-- Using modules and virtual environments
-- Automating repetitive tasks
-- Working with data (lists, dicts, sets, etc.)
-
-### 🌐 HTML & CSS
-I use HTML and CSS to structure and style websites. I understand semantic HTML, responsive design basics, and CSS positioning/flexbox/grid layouts.
+### HTML & CSS
+Applied to structuring and styling websites, with an understanding of semantic HTML, responsive design, and CSS positioning, Flexbox, and Grid.
 
 **Strengths:**
-- Writing semantic and accessible HTML
-- Styling with clean CSS
+- Semantic, accessible HTML
+- Clean CSS
 - Responsive layouts
-- Integrating with JS for full web projects
+- Integration with JavaScript for complete web projects
 
-### 💻 C
-I've learned C primarily through academic coursework — it helped me understand low-level programming, memory management, and pointers. I can write simple programs and algorithms in C and debug them effectively.
+### C
+Learned through academic coursework, covering low-level programming, memory management, and pointers. Capable of writing and debugging programs and algorithms.
 
 **Strengths:**
-- Understanding memory usage and pointers
-- Writing loops, conditionals, and functions
-- Simple algorithm implementation (sorting, searching)
+- Memory management and pointers
+- Loops, conditionals, and functions
+- Fundamental algorithm implementation (sorting, searching)
 
-### 🧠 C++
-C++ builds on my C knowledge and adds object-oriented programming. I've used C++ for data structures, algorithm design, and understanding systems-level code more deeply.
+### C++
+Builds on foundational C knowledge with object-oriented programming, applied to data structures, algorithm design, and systems-level programming.
 
 **Strengths:**
 - Classes, inheritance, and polymorphism
-- Writing efficient, optimized code
-- Working with STL (Standard Template Library)
-- Handling files and memory more safely than in C
-
-### 🗄️ SQL
-I use SQL to manage and query relational databases like MySQL. I've written queries for CRUD operations, table creation, and relational joins in small apps and university assignments.
-
-**Strengths:**
-- Writing SELECT, INSERT, UPDATE, DELETE queries
-- Creating and managing database schemas
-- Using JOINs to combine related data
-- Basic normalization and relationships
+- Efficient, optimized code
+- Standard Template Library (STL)
+- Safer file and memory handling than C
 
 ---
 
-## 🛠️ Tools & Tech I Use
+## Tools & Technologies
 
-- **Git & GitHub** for version control
-- **VS Code** as my primary editor
-- **WSL/Linux** for a better development environment
-- **MySQL** for database work
-- **Windows & macOS** for cross-platform experience
-- **Getting familiar with:** Jupyter Notebook & Google Colab, for AI/ML work
+- **Git & GitHub** — version control
+- **VS Code** — primary development environment
+- **WSL/Linux** — development environment
+- **Vercel & GitHub Actions** — deployment and CI/CD
+- **Windows & macOS** — cross-platform development
+- **Jupyter Notebook & Google Colab** — developing familiarity for AI/ML work
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 ![Bajeejames7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajeejames7&show_icons=true)
 
 ---
 
-If your organization is building AI or tech for social good and thinks I could contribute, I'd genuinely love to hear from you. Otherwise — if you're here to collaborate, ask questions, or just browse — welcome! Feel free to ⭐ a project you like, or reach out any time.
+Organizations developing AI or technology for social good are welcome to reach out regarding potential collaboration or opportunities.
