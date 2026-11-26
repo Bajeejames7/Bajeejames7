@@ -1,138 +1,138 @@
-# Bajeejames7
+<div align="center">
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=James%20Bajee&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Kenya&descAlignY=58&descSize=20" width="100%" />
 
-**Full-Stack Developer & Computer Science Student — Building AI-Integrated Production Systems**
+<a href="https://webdev.jamesbajee3579.workers.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=620&lines=I+build+websites+that+take+M-Pesa;Member+%26+school+systems+for+Kenyan+orgs;AI+inside+real+production+apps;Computer+Science+student+%F0%9F%8E%93" alt="Typing intro" />
+</a>
 
-Full-stack developer with hands-on experience shipping production systems — including a government file-management platform and an AI-integrated pharmacy management system — alongside formal study in Computer Science and a growing specialization in applied AI.
+<p>
+  <a href="https://webdev.jamesbajee3579.workers.dev"><img src="https://img.shields.io/badge/Portfolio-Hire%20me-00C9A7?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://wa.me/254702073509"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:jamesbajee3579@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bajeejames7&style=for-the-badge&color=2c5364&label=Profile+views" />
+</p>
 
-> **Objective:** Seeking an organization, research lab, or team applying technology — particularly AI — toward meaningful social impact. Open to internships, research assistant roles, and collaborative projects.
+</div>
 
----
+## 👋 About me
 
-## Selected Projects
+Full-stack developer and Computer Science student shipping production systems for real businesses and organisations in Kenya: online shops, M-Pesa payments, member and election systems, and AI assistants built into live products.
 
-**Esena Pharmacy — Full-Stack Pharmacy Management Platform**
-Production system built for [Esena Pharmacy](https://esena.co.ke), covering online ordering, appointment booking, and an admin dashboard, with an integrated AI chatbot — Ivo Bot, built on Google's Gemini API — for customer support. 150 commits.
-Stack: React, Tailwind CSS, Node.js, Express, MySQL, JWT authentication
-[Repository](https://github.com/Bajeejames7/esena_pharmacy)
+- 🚀 **Building:** websites and systems for Kenyan businesses → [my portfolio](https://webdev.jamesbajee3579.workers.dev)
+- 🧠 **Learning:** machine learning in Python, backend architecture, DSA
+- 🤝 **Open to:** internships, research roles and teams using tech (especially AI) for social good
+- 📫 **Reach me:** jamesbajee3579@gmail.com · He/Him
 
-**Government File Management System**
-Multi-version file management system developed for a government client, spanning several major revisions (mark2 through mark7) that reflect sustained ownership and iteration on a production system.
+## 🌍 Live projects
 
-**ByteHub — Digital Studio (Team of Four)**
-One of the developers behind ByteHub, a small studio offering web design and development services. Built the studio's public site and contributes to client projects.
-Stack: React, Vite, Tailwind CSS, Framer Motion
-[Repository](https://github.com/Bytehub-IT/Bytehub_website)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Event Guest Scanner**
-Deployed guest check-in and verification tool, live in production. 28 commits.
-[Live Demo](https://event-guest-scanner.vercel.app) · [Repository](https://github.com/Bajeejames7/event_guest_scanner)
+### 💊 Esena Pharmacy
+Online pharmacy with nationwide delivery: catalogue, cart and checkout, an admin dashboard for stock and orders, and **Ivo Bot**, an AI health assistant on Google Gemini.
 
-**Additional Projects:** Kienyeji Farm & Website, LifeBridge Hospital Management System, Welfare Organization Website, Elektrik Web Platform, and a Windows auto-brightness utility — spanning healthcare, agriculture, community, and systems-level tools.
+`React` `Tailwind` `Node.js` `Express` `MySQL`
 
----
+<a href="https://esena.co.ke"><img src="https://img.shields.io/badge/Live-esena.co.ke-00C9A7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/Bajeejames7/esena_pharmacy"><img src="https://img.shields.io/badge/Code-repo-181717?style=flat-square&logo=github" /></a>
 
-## Profile Summary
+</td>
+<td width="50%" valign="top">
 
-- **Interests:** Artificial Intelligence & Machine Learning, full-stack development, cybersecurity, systems programming, and automation
-- **Currently Learning:** Machine learning fundamentals (Python), advanced backend architecture, and Data Structures & Algorithms (DSA)
-- **Actively Seeking:** Organizations developing AI or technology for social good, human impact, or public benefit
-- **Collaboration Interests:** AI-for-good initiatives, open-source tools, automation scripts, and web-based solutions for real-world problems
-- **Contact:** jamesbajee3579@gmail.com
-- **Pronouns:** He/Him
+### 💜 AVYRA
+Dating and friendship platform for Kenyan university students: student verification, chat, voice notes and photo safety. Installable as an app and hosted on my own VPS.
 
----
+`TypeScript` `Node.js` `PostgreSQL` `PWA` `Docker`
 
-## Technical Skills
+<a href="https://avyra.co.ke"><img src="https://img.shields.io/badge/Live-avyra.co.ke-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
-### Full-Stack Development
-Builds complete, production-grade web applications end to end — from database design through deployment. Applied directly to real client and organizational systems, including a pharmacy management platform and a government file-management system.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:**
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Databases:** PostgreSQL, MySQL
-- **Auth & APIs:** JWT authentication, REST APIs
-- **Deployment:** Vercel, GitHub Actions
+### 🐔 Kienyeji Farm Fresh
+Poultry business selling across Nairobi. Built to rank for searches like *"kienyeji chicken for sale in Nairobi"*, with prices, same-day delivery, M-Pesa ordering and WhatsApp buttons.
 
-### Artificial Intelligence & Machine Learning
-Applying AI directly inside production systems — Ivo Bot, an AI-powered customer support chatbot built on Google's Gemini API, is integrated into the Esena Pharmacy platform — alongside ongoing study of machine learning fundamentals in Python.
+`TypeScript` `SEO` `M-Pesa`
 
-**Focus Areas:**
-- Applied AI: integrating LLM APIs (e.g., Gemini) into real, production products
-- Developing machine learning fundamentals using Python
-- Human-centered AI — automation and tools that create measurable value for people
-- Approaching AI development with attention to real-world impact and responsible use
+<a href="https://kienyejifarmfresh.co.ke"><img src="https://img.shields.io/badge/Live-kienyejifarmfresh.co.ke-F4A300?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
-### Java
-Primary language of strength. Applied to object-oriented programming, GUI development with Java Swing, and academic projects. Proficient in class structures, inheritance, encapsulation, file handling, and full desktop application development.
+</td>
+<td width="50%" valign="top">
 
-**Strengths:**
-- Java Swing application development
-- Strong understanding of OOP principles
-- Clean, modular code
-- Debugging and exception handling
+### 🖥️ Kiungo
+My own remote desktop app for Windows: help someone on their computer straight from a browser. Windows installer plus web viewer, running on Cloudflare's network.
 
-### Python
-Primary language for scripting, automation, and rapid prototyping, including file-renaming scripts, CLI tools, and basic data parsing.
+`Electron` `WebRTC` `Cloudflare Workers`
 
-**Strengths:**
-- Clean, readable code
-- Modules and virtual environments
-- Automation of repetitive tasks
-- Data handling (lists, dictionaries, sets)
+<a href="https://kiungo.jamesbajee3579.workers.dev"><img src="https://img.shields.io/badge/Live-Try%20Kiungo-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a>
 
-### HTML & CSS
-Applied to structuring and styling websites, with an understanding of semantic HTML, responsive design, and CSS positioning, Flexbox, and Grid.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Strengths:**
-- Semantic, accessible HTML
-- Clean CSS
-- Responsive layouts
-- Integration with JavaScript for complete web projects
+### 🗳️ Coastal Youth Parliament
+Membership and elections system for a youth organisation: candidate applications and approvals, voting with one-time codes, live results and dashboards.
 
-### C
-Learned through academic coursework, covering low-level programming, memory management, and pointers. Capable of writing and debugging programs and algorithms.
+`NestJS` `Next.js` `Prisma` `PostgreSQL`
 
-**Strengths:**
-- Memory management and pointers
-- Loops, conditionals, and functions
-- Fundamental algorithm implementation (sorting, searching)
+</td>
+<td width="50%" valign="top">
 
-### C++
-Builds on foundational C knowledge with object-oriented programming, applied to data structures, algorithm design, and systems-level programming.
+### 🧑‍💻 Web Dev Portfolio
+My freelance site: websites, M-Pesa payments and member systems for Kenyan businesses, with clear prices.
 
-**Strengths:**
-- Classes, inheritance, and polymorphism
-- Efficient, optimized code
-- Standard Template Library (STL)
-- Safer file and memory handling than C
+`HTML` `CSS` `Cloudflare Workers`
 
----
+<a href="https://webdev.jamesbajee3579.workers.dev"><img src="https://img.shields.io/badge/Live-Portfolio-00C9A7?style=flat-square&logo=cloudflare&logoColor=white" /></a>
 
-## Tools & Technologies
+</td>
+</tr>
+</table>
 
-- **Git & GitHub** — version control
-- **VS Code** — primary development environment
-- **WSL/Linux** — development environment
-- **Vercel & GitHub Actions** — deployment and CI/CD
-- **Windows & macOS** — cross-platform development
-- **Jupyter Notebook & Google Colab** — developing familiarity for AI/ML work
+<details>
+<summary><b>🧰 More things I've built</b></summary>
+<br>
 
----
+| Project | What it is |
+|---|---|
+| 🎓 **Travia Cafe** | Online cybersecurity school with M-Pesa course payments, access codes and staff/teacher/student logins |
+| 🏛️ **Government File Management System** | File management for a government client, iterated from mark2 to mark7 |
+| 🎟️ [**Event Guest Scanner**](https://github.com/Bajeejames7/event_guest_scanner) | Guest check-in and verification tool |
+| 🏢 [**ByteHub**](https://github.com/Bytehub-IT/Bytehub_website) | Site for ByteHub, a four-person digital studio I'm part of |
+| 🏥 **LifeBridge Hospital** | Hospital management system and staff welfare site |
+| 🏁 [**Riptide Rush**](https://github.com/Bajeejames7/riptide-rush) | Original arcade powerboat racing game for Windows |
+| ⚡ [**VidBoost**](https://github.com/Bajeejames7/vidboost) | Browser extension for smoother streaming on slow internet |
+| 📦 [**Duka Stock**](https://github.com/Bajeejames7/duka-stock) | Photo-based shop stock logger that saves to Google Sheets |
+| 📱 [**iPhone Mirror for Windows**](https://github.com/Bajeejames7/iphone-mirror-windows) | Mirror an iPhone on Windows over AirPlay |
+| 📺 [**ASCII TV**](https://github.com/Bajeejames7/ascii-tv) | Video rendered as ASCII art in the browser |
 
-## GitHub Statistics
+</details>
 
-![Bajeejames7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajeejames7&show_icons=true)
+## 🛠️ Tech stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,nestjs,nextjs,tailwind,postgres,mysql,prisma,python,java,c,cpp,html,css,docker,linux,cloudflare,vercel,git,github,vscode&perline=12" />
+</p>
 
-Organizations developing AI or technology for social good are welcome to reach out regarding potential collaboration or opportunities.
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bajeejames7&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajeejames7&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bajeejames7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bajeejames7/Bajeejames7/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bajeejames7/Bajeejames7/output/snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer" width="100%" />
